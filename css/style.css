@@ -53,7 +53,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.8em;
-		color: gainsboro;
+		color: rgb(220, 220, 220);
 		margin-top: 15%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -127,7 +127,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(220, 220, 220);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -261,7 +261,7 @@ body {
 	.name {
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(43, 6, 64);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -269,7 +269,8 @@ body {
 	.subtitle {
 		text-align: center;
 		font-size: 2em;
-		color: darkgray;
+		color: rgb(171, 125, 224);
+
 	}
 	.icons {
 		font-size: 15px;
