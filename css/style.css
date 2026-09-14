@@ -12,6 +12,14 @@ body {
 	background-attachment: fixed;
 }
 
+.button-icon {
+	border: 20px;
+		border-radius: 0%;
+		margin-top: 8%;
+		margin-bottom: -5% !important;
+		width: 15%;
+}
+
 .icons>a {
 	text-decoration: none;
 	color: darkgray;
@@ -44,11 +52,12 @@ body {
 		box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
 	}
 	img {
-		border: 20px solid white;
-		border-radius: 50%;
+		border: 20px;
+		border-radius: 0%;
 		margin-top: 8%;
-		margin-bottom: -15% !important;
-		width: 30%;
+		margin-bottom: -5% !important;
+		width: 20%;
+
 	}
 	.name {
 		text-align: center;
